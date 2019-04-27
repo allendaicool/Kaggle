@@ -17,7 +17,7 @@ import sys
 import numpy as np
 
 
-
+#https://www.kaggle.com/volhaleusha/titanic-tutorial-encoding-feature-eng-81-8
 # Create function that take name and separates it into title, family name and deletes all puntuation from name column:
 def name_sep(data):
 	families=[]
